@@ -1,0 +1,31 @@
+Open this link to your browser
+http://3.27.210.100/FLOODmonitoring/login/
+
+Login using
+username: admin
+password: password
+
+LAMP Server:
+Linux: The operating system hosting your server.
+Apache: The web server software serving your web pages.
+MySQL: The database for storing data.
+PHP: The scripting language for backend logic and server-side tasks.
+
+Frontend (User Interface - What the user interacts with):
+HTML: Structure of the web pages.
+CSS: Styling of the web pages (colors, layout, fonts, etc.).
+JavaScript (JS): Adds interactivity to the web pages (dynamic content, animations, etc.).
+
+Backend (Server-side - Logic and processing):
+PHP: Handles server-side logic, processes requests, and interacts with the database.
+Python: Script running in the background to process MQTT data from TTN and provide functionality behind the scenes.
+
+Database (Data Storage and Management):
+SQL: Language used to query and manipulate the database.
+MySQL: The actual database system where data is stored.
+phpMyAdmin: A web-based tool to manage the MySQL database (user-friendly interface for database management).
+pymysql: A Python library used to connect and interact with the MySQL database. 
+
+Communication/Integration:
+MQTT: Protocol used by Python to catch and process real-time data from The Things Network (TTN).
+Websockets (on Python): A communication protocol for real-time, bidirectional communication between the server and the client.
