@@ -1,0 +1,12 @@
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:192:25:vcom_Init	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:207:25:vcom_DeInit	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:241:25:vcom_Trace_DMA	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:253:25:vcom_ReceiveInit	16	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:111:6:enqueue	16	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:126:13:dequeue	4	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:134:6:printQueue	32	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:150:6:parseCommand	136	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:230:6:vcom_Trace	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:289:6:vcom_Resume	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:310:6:HAL_UART_TxCpltCallback	8	static
+C:/Users/Owner/STM32CubeIDE/WorkingNCR/LoRaWAN_End_Node/Core/Src/usart_if.c:325:6:HAL_UART_RxCpltCallback	32	static
